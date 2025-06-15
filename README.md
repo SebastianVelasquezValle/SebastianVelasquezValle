@@ -23,16 +23,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/SebastianVelasquezValle/SebastianVelasquezValle" title="Go to Source">
-      <img align="left" width=420 src="https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/SebastianVelasquezValle/SebastianVelasquezValle" title="Go to Source">
-      <img align="right" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false" alt="GitHub Streak" />
+      <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false" alt="GitHub Streak" />
     </a>
   </div>
   <br><br><br>
   <div align=center>
     <a href="https://github.com/SebastianVelasquezValle/SebastianVelasquezValle">
-      <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVelasquezValle&langs_count=8&theme=radical" alt="Top Languages" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVelasquezValle&langs_count=8&theme=radical" alt="Top Languages" />
     </a>
   </div>
   <br>
