@@ -5,18 +5,26 @@
 <!-- 
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVelasquezValle&langs_count=8&theme=radical)
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical" alt="GitHub Stats" width="55%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false" alt="GitHub Streak" width="400" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVelasquezValle&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
+
+
+<a href="https://github.com/SebastianVelasquezValle/SebastianVelasquezValle">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/SebastianVelasquezValle/SebastianVelasquezValle">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</a>
 
 
