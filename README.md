@@ -3,6 +3,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical)
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVelasquezValle&langs_count=8&theme=radical)
