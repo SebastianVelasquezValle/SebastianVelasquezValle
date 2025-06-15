@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false" alt="GitHub Streak" width="400" />
 </p>
 
 <p align="center">
