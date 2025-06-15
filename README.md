@@ -9,14 +9,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVelasquezValle&langs_count=8&theme=radical)
 
-<table align="center" style="border: none;">
+<table align="left" style="border: none;">
   <tr>
-    <td>
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical" alt="GitHub Stats" />
       <br />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianVelasquezValle&theme=radical&hide_border=false" alt="GitHub Streak" />
     </td>
-    <td>
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVelasquezValle&langs_count=8&theme=radical" alt="Top Languages" />
     </td>
   </tr>
