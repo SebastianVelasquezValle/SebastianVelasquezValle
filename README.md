@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianVelasquezValle&langs_count=8&theme=radical)
 
-<table>
+<table align="center" style="border: none;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SebastianVelasquezValle&show_icons=true&theme=radical" alt="GitHub Stats" />
